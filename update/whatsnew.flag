@@ -1,9 +1,8 @@
- 1.1
+ 1.3
 
 Nowe funkcje:
-- Ulepszony interfejs użytkownika
-- Dodano nową opcje w menu, która pozwala zmienić kolory znaków i przycisków do wprowadzania znaków głagolicy i polskich do tłumacza
+- Dodano i poprowiono tłumaczenie niektórych liter
 
 Poprawki błędów:
-- zmienione tłumaczenie niektórych liter
+- Usunięto błędy z dodawaniem liter od przycisków z literami
 
