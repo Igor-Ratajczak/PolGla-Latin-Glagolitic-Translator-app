@@ -4,7 +4,7 @@ Tłumacz, który przetłumaczy polski na głagolice i odwrotnie.
 
 ## Funkcje programu.
 
-- Możesz zmienić kolor tekstu (głowny, klawiatury) jak i tło (głowne, przycisków, tłumacza, klawiatury)
+- Możesz zmienić kolor tekstu (główny, klawiatury) jak i tło (główne, przycisków, tłumacza, klawiatury)
 - Zamiast zaznaczać cały tekst, możesz kliknąć przycisk "Skopiuj tłumaczenie" oraz w opcjach kliknąć opcje "Skopiuj tłumaczenie"
 - Do zmiany języka tłumaczenia możesz użyć przycisku oznaczony strzałkami albo w opcjach kliknąć "Zmień język tłumaczenia"
 
