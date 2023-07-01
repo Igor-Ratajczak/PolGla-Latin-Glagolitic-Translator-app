@@ -10,6 +10,7 @@ Tłumacz, który przetłumaczy polski na głagolice i odwrotnie.
 
 ## Ważne!
 - Pamiętaj ten tłumacz nie musi tłumaczyć niektórych słów tak jak powinien np. "woda", czyli "ⰲⱁⰴⰰ" w odwrótnym tłumaczeniu, tłumacz przetłumaczy to jako "voda" z powodu, że kiedyś nie było litery "w", tylko litera "v".
+- Problem ten dotyka również litery "ó" na razie nie mogę znależć odzwzorowania litry "ó", więc ta litera nie będzie tłumaczona. 
 
 ## Link do pobrania najnowszej wersji.
  - Wersja 1.2 => https://github.com/Igor-Ratajczak/PolGla-Tlumacz/raw/main/Wersje%20PolGla%20T%C5%82umacz/1.2v/PolGla%20T%C5%82umacz-1.2-win64.msi
