@@ -1,8 +1,11 @@
  1.3
 
 Nowe funkcje:
-- Dodano i poprawiono tłumaczenie niektórych liter
+ - Poprawienie tłumaczenia niektórych liter.
+ - Dodanie do tłumaczenia liter takich jak "ch", "ni", "ot" .itp.
 
 Poprawki błędów:
-- Usunięto błędy z dodawaniem liter od przycisków z literami
+
+ - Usunięcie błędów z dodawaniem liter używając klawiatury w programie.
+ - Bradziej poprawne tłumaczenie słów.
 
