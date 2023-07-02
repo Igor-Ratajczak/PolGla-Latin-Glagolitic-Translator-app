@@ -1,4 +1,4 @@
-# PolGla-Tłumacz
+# PolGla Tłumacz
 
 Tłumacz, który przetłumaczy polski na głagolice i odwrotnie.
 
