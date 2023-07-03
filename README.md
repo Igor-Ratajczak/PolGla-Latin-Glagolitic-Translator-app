@@ -1,6 +1,6 @@
 # PolGla Tłumacz
 
-Tłumacz, który przetłumaczy polski na głagolice i odwrotnie.
+Tłumacz, który pozwoli tobie zapisać jakikolwiek tekst w alfabecie głagolicy oraz go odczytać. 
 
 ## Funkcje programu.
 
