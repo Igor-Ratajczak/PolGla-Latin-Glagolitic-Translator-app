@@ -13,4 +13,4 @@ Tłumacz, który pozwoli tobie zapisać jakikolwiek tekst w alfabecie głagolicy
 - Problem ten dotyka również litery "ó" na razie nie mogę znależć odzwzorowania litry "ó", więc ta litera nie będzie tłumaczona. 
 
 ## Link do pobrania najnowszej wersji.
-- [Link do wersji 1.2](https://github.com/Igor-Ratajczak/PolGla-Tlumacz/raw/master/Wersje%20PolGla%20T%C5%82umacz/1.2v/PolGla%20T%C5%82umacz-1.2-win64.msi)
+- [Link do wersji 1.3](https://github.com/Igor-Ratajczak/PolGla-Tlumacz/raw/master/Wersje%20PolGla%20T%C5%82umacz/1.3v/PolGla%20T%C5%82umacz-1.3-win64.msi)
