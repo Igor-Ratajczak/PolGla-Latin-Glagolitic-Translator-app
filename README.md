@@ -2,7 +2,7 @@
 
 # Polski
 
-Tłumacz, który pozwoli tobie zapisać jakikolwiek tekst w alfabecie głagolicy oraz go odczytać.
+Tłumacz, który pozwoli tobie zapisać jakikolwiek tekst z alfabetu łacińskiego na alfabet głagolicy oraz go odczytać.
 
 ## Funkcje
 
@@ -23,7 +23,7 @@ Tłumacz, który pozwoli tobie zapisać jakikolwiek tekst w alfabecie głagolicy
 
 # English
 
-A translator that will allow you to write down any text in the Glagolitic alphabet and read it.
+A translator that will allow you to write any text from the Latin alphabet into the Glagolitic alphabet and read it.
 
 ## Functions
 
